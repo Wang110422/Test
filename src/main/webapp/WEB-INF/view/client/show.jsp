@@ -43,7 +43,7 @@
 
                     <style>
                         .dropbtn {
-                            background-color: #4CAF50;
+                            background-color: #3f7dac;
                             color: white;
                             padding: 16px;
                             font-size: 16px;
@@ -244,16 +244,26 @@
                                         data-bs-ride="carousel">
                                         <div class="carousel-inner" role="listbox">
                                             <div class="carousel-item active rounded">
-                                                <img src="/images/product/hero-img-1.png"
+                                                <img src="/images/product/macbook1.jpg"
                                                     class="img-fluid w-100 h-100 bg-secondary rounded"
                                                     alt="First slide">
-                                                <a href="#" class="btn px-4 py-2 text-white rounded">Fruites</a>
+                                                <a href="#" class="btn px-4 py-2 text-white rounded">Macbook</a>
                                             </div>
                                             <div class="carousel-item rounded">
-                                                <img src="/images/product/hero-img-2.jpg"
+                                                <img src="/images/product/laptop2.jpg"
                                                     class="img-fluid w-100 h-100 rounded" alt="Second slide">
-                                                <a href="#" class="btn px-4 py-2 text-white rounded">Vesitables</a>
+                                                <a href="#" class="btn px-4 py-2 text-white rounded">Asus</a>
                                             </div>
+											<div class="carousel-item rounded">
+											    <img src="/images/product/laptop1.jpg"
+											        class="img-fluid w-100 h-100 rounded" alt="Second slide">
+											    <a href="#" class="btn px-4 py-2 text-white rounded">Dell</a>
+											</div>
+											<div class="carousel-item rounded">
+											    <img src="/images/product/huawei.jpg"
+											        class="img-fluid w-100 h-100 rounded" alt="Second slide">
+											    <a href="#" class="btn px-4 py-2 text-white rounded">HP</a>
+											</div>
                                         </div>
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselId"
                                             data-bs-slide="prev">
@@ -333,14 +343,14 @@
                             <div class="tab-class text-center">
                                 <div class="row g-4">
                                     <div class="col-lg-4 text-start">
-                                        <h1>Our Organic Products</h1>
+                                        <h1>Laptop chính hãng</h1>
                                     </div>
                                     <div class="col-lg-8 text-end">
                                         <ul class="nav nav-pills d-inline-flex text-center mb-5">
                                             <li class="nav-item">
                                                 <a class="d-flex m-2 py-2 bg-light rounded-pill active"
                                                     data-bs-toggle="pill" href="#tab-1">
-                                                    <span class="text-dark" style="width: 130px;">All Products</span>
+                                                    <span class="text-dark" style="width: 130px;">Sản phẩm</span>
                                                 </a>
                                             </li>
 
@@ -361,7 +371,7 @@
                                                                         class="img-fluid w-100 rounded-top" alt="">
                                                                 </div>
                                                                 <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                                    style="top: 10px; left: 10px;">Fruits</div>
+                                                                    style="top: 10px; left: 10px;">Laptop</div>
                                                                 <div class="p-4 border border-secondary border-top-0 rounded-bottom"
                                                                     style="height: 221px;">
                                                                     <marquee direction="right">
@@ -934,25 +944,25 @@
                             <div class="row g-4 align-items-center">
                                 <div class="col-lg-6">
                                     <div class="py-4">
-                                        <h1 class="display-3 text-white">Fresh Exotic Fruits</h1>
-                                        <p class="fw-normal display-3 text-dark mb-4">in Our Store</p>
+                                        <h1 class="display-3 text-white">Macbook-Air-M2</h1>
+                                        <p class="fw-normal display-3 text-dark mb-4">Đã có mặt tại cửa hàng</p>
                                         <p class="mb-4 text-dark">The generated Lorem Ipsum is therefore always free
                                             from
                                             repetition
                                             injected humour, or non-characteristic words etc.</p>
                                         <a href="#"
-                                            class="banner-btn btn border-2 border-white rounded-pill text-dark py-3 px-5">BUY</a>
+                                            class="banner-btn btn border-2 border-white rounded-pill text-dark py-3 px-5">Mua ngay</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="position-relative">
-                                        <img src="/images/product/baner-1.png" class="img-fluid w-100 rounded" alt="">
+                                        <img src="/images/product/macbook-air-1.png" class="img-fluid w-100 rounded" alt="">
                                         <div class="d-flex align-items-center justify-content-center bg-white rounded-circle position-absolute"
                                             style="width: 140px; height: 140px; top: 0; left: 0;">
                                             <h1 style="font-size: 100px;">1</h1>
                                             <div class="d-flex flex-column">
-                                                <span class="h2 mb-0">50$</span>
-                                                <span class="h4 text-muted mb-0">kg</span>
+                                                <span class="h2 mb-0">499$</span>
+                                                <span class="h4 text-muted mb-0"></span>
                                             </div>
                                         </div>
                                     </div>
@@ -1119,8 +1129,8 @@
                                 <div class="row g-4">
                                     <div class="col-lg-3">
                                         <a href="#">
-                                            <h1 class="text-primary mb-0">Fruitables</h1>
-                                            <p class="text-secondary mb-0">Fresh products</p>
+                                            <h1 class="mb-0" style="color: white;">Laptopshop</h1>
+                                            <p class="text-secondary mb-0">Laptop chính hãng</p>
                                         </a>
                                     </div>
                                     <div class="col-lg-6">
@@ -1154,7 +1164,7 @@
                                             popularised in the 1960s with the like Aldus PageMaker including of Lorem
                                             Ipsum.
                                         </p>
-                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read
+                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill" style="color: white;">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -1200,17 +1210,17 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                                    <span class="text-light"><a href="#"><i
-                                                class="fas fa-copyright text-light me-2"></i>Your Site
+                                    <span class=""><a href="#"><i
+                                                class="fas fa-copyright me-2" style="color: white;"></i>Your Site
                                             Name</a>, All right reserved.</span>
                                 </div>
                                 <div class="col-md-6 my-auto text-center text-md-end text-white">
                                     <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                                     <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                                     <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                                    Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                                    Designed By <a class="border-bottom" href="https://htmlcodex.com" style="color: white;">HTML Codex</a>
                                     Distributed By
-                                    <a class="border-bottom" href="https://themewagon.com">ThemeWagon</a>
+                                    <a class="border-bottom" href="https://themewagon.com" style="color: white;">ThemeWagon</a>
                                 </div>
                             </div>
                         </div>

@@ -37,7 +37,7 @@
                     <link href="/css/client/style.css" rel="stylesheet">
                     <style>
                         .dropbtn {
-                            background-color: #4CAF50;
+                            background-color: #3f7dac;
                             color: white;
                             padding: 16px;
                             font-size: 16px;
@@ -271,7 +271,7 @@
                                                                     <li>
                                                                         <div
                                                                             class="d-flex align-items-center fruite-name">
-                                                                            <a href="#">apples</a>
+                                                                            <a href="#">Apple</a>
                                                                             <span
                                                                                 style="display: flex; margin-left: 1%;">
                                                                                 <input class="form-check-input"
@@ -449,7 +449,7 @@
 
                                                 <div class="col-lg-12">
                                                     <div class="mb-3">
-                                                        <h4>Muc Gia</h4>
+                                                        <h4>Mức giá</h4>
                                                         <ul class="list-unstyled fruite-categorie">
                                                             <div style="display: flex; justify-content: space-between;"
                                                                 id="moneyFilter">
@@ -536,7 +536,7 @@
 
                                                 <div class="col-lg-12">
                                                     <div class="mb-3">
-                                                        <h4>Sap xep</h4>
+                                                        <h4>Sắp xếp</h4>
                                                         <ul class="list-unstyled fruite-categorie">
                                                             <div style="display: flex; justify-content: space-between;"
                                                                 id="sortFilter">
@@ -546,8 +546,7 @@
                                                                     <li>
                                                                         <div
                                                                             class="d-flex align-items-center fruite-name">
-                                                                            <a href="#" style="white-space: nowrap;">Gia
-                                                                                Giam Dan<a>
+                                                                            <a href="#" style="white-space: nowrap;">Giá giảm dần<a>
                                                                                     <span
                                                                                         style="display: flex; margin-left: 1%;">
                                                                                         <input class="form-check-input"
@@ -561,8 +560,7 @@
                                                                         <div
                                                                             class="d-flex align-items-center fruite-name">
                                                                             <a href="#"
-                                                                                style="white-space: nowrap;">Khong sap
-                                                                                xep</a>
+                                                                                style="white-space: nowrap;">Không sắp xếp</a>
                                                                             <span
                                                                                 style="display: flex; margin-left: 1%;">
                                                                                 <input class="form-check-input"
@@ -575,8 +573,7 @@
                                                                     <li>
                                                                         <div class="d-flex align-items-center fruite-name"
                                                                             style="margin-left: -211%; margin-top: 29%;">
-                                                                            <a href="#" style="white-space: nowrap;">Gia
-                                                                                Tang Dan</a>
+                                                                            <a href="#" style="white-space: nowrap;">Giá tăng dần</a>
                                                                             <span
                                                                                 style="display: flex; margin-left: 1%;">
                                                                                 <input class="form-check-input"
@@ -695,8 +692,8 @@
                                 <div class="row g-4">
                                     <div class="col-lg-3">
                                         <a href="#">
-                                            <h1 class="text-primary mb-0">Fruitables</h1>
-                                            <p class="text-secondary mb-0">Fresh products</p>
+                                            <h1 class="mb-0" style="color: white;">Laptopshop</h1>
+                                            <p class="text-secondary mb-0">Laptop chính hãng</p>
                                         </a>
                                     </div>
                                     <div class="col-lg-6">
@@ -728,8 +725,9 @@
                                         <h4 class="text-light mb-3">Why People Like us!</h4>
                                         <p class="mb-4">typesetting, remaining essentially unchanged. It was
                                             popularised in the 1960s with the like Aldus PageMaker including of Lorem
-                                            Ipsum.</p>
-                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read
+                                            Ipsum.
+                                        </p>
+                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill" style="color: white;">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -762,7 +760,7 @@
                                         <p>Email: Example@gmail.com</p>
                                         <p>Phone: +0123 4567 8910</p>
                                         <p>Payment Accepted</p>
-                                        <img src="img/payment.png" class="img-fluid" alt="">
+                                        <img src="/images/product/payment.png" class="img-fluid" alt="">
                                     </div>
                                 </div>
                             </div>

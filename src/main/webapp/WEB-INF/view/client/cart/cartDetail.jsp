@@ -43,7 +43,7 @@
 
                     <style>
                         .dropbtn {
-                            background-color: #4CAF50;
+                            background-color: #3f7dac;
                             color: white;
                             padding: 16px;
                             font-size: 16px;
@@ -375,8 +375,8 @@
                                 <div class="row g-4">
                                     <div class="col-lg-3">
                                         <a href="#">
-                                            <h1 class="text-primary mb-0">Fruitables</h1>
-                                            <p class="text-secondary mb-0">Fresh products</p>
+                                            <h1 class="mb-0" style="color: white;">Laptopshop</h1>
+                                            <p class="text-secondary mb-0">Laptop chính hãng</p>
                                         </a>
                                     </div>
                                     <div class="col-lg-6">
@@ -408,8 +408,9 @@
                                         <h4 class="text-light mb-3">Why People Like us!</h4>
                                         <p class="mb-4">typesetting, remaining essentially unchanged. It was
                                             popularised in the 1960s with the like Aldus PageMaker including of Lorem
-                                            Ipsum.</p>
-                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read
+                                            Ipsum.
+                                        </p>
+                                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill" style="color: white;">Read
                                             More</a>
                                     </div>
                                 </div>
@@ -442,7 +443,7 @@
                                         <p>Email: Example@gmail.com</p>
                                         <p>Phone: +0123 4567 8910</p>
                                         <p>Payment Accepted</p>
-                                        <img src="img/payment.png" class="img-fluid" alt="">
+                                        <img src="/images/product/payment.png" class="img-fluid" alt="">
                                     </div>
                                 </div>
                             </div>
